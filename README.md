@@ -10,7 +10,7 @@ Sou o Haniel Lemes, sou um programador Front-end, atualmente estou trabalhando e
 <br>
 <br>
 Estou estudando as linguagens:
-<br>
+<p>Learn About:</p>
 <br>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="logo-java">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="logo-java"/>
