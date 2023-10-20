@@ -16,7 +16,7 @@ Estou estudando as linguagens:
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="logo-java">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="logo-java"/>
 <br>
-Sou apaixonado por tecnologia e estou a procura de uma oportunidade no mercado de trabalho para crescer profissionalmente e agregar o máximo de conhecimento que for preciso.
+Estou a procura de uma oportunidade no mercado de trabalho para crescer profissionalmente e agregar o máximo de conhecimento que for preciso.
 <br>
   Gosto de estudar, sou dedicado e alcanço meus obejtivos, estou estudando inglês High-intermediate e evoluindo a cada dia.
 <br>
