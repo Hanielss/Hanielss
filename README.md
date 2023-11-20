@@ -22,7 +22,7 @@ Estou a procura de uma oportunidade no mercado de trabalho para crescer profissi
 <br>
 <br>
 
- :airplane: I'm passionate about technology and I'm looking for an opportunity in the job market to grow professionally and add as much knowledge as necessary. 
+ :airplane:  I'm looking for an opportunity in the job market to grow professionally and add as much knowledge as necessary. 
  <br>
  I like to study, I'm dedicated and I reach my goals, I'm studying High-intermediate English and evolving every day.
 <br>
