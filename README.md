@@ -1,37 +1,43 @@
-### Hi there :computer:
+<h1> Olá!</h1> :computer:
 
-Sou o Haniel Lemes, sou um programador Front-end, atualmente estou trabalhando em alguns projetos pessoais para estudo com:
+Sou o Haniel Lemes, freelancer na área de programação FullStack, atualmente estou trabalhando em alguns projetos pessoais para estudo com:
 <br>
 <br>
- :airplane: I'm Haniel Lemes, developer Front-end, at the moment I'm working for some personals projects, using tecnologies:
+ :airplane: 
 <br>
 - <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="logo-html"/>
 - <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="logo-css"/>
 - <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="logo-java">
 - <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+- <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="logo-java"/>
+
 
 <br>
-<br>
-Estou estudando as linguagens:
-<p>Learn About:</p>
-<br>
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="logo-java">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="logo-java"/>
-<br>
-Estou a procura de uma oportunidade no mercado de trabalho para crescer profissionalmente e agregar o máximo de conhecimento que for preciso.
-<br>
-  Gosto de estudar, sou dedicado e alcanço meus obejtivos, estou estudando inglês High-intermediate e evoluindo a cada dia.
-<br>
+<p>Nestes projetos estou utilizado principalmente React e JavaScript para criar as aplicações de uma forma mais performática, utilizando Hooks, componetizando objetos, criação de rotas como GET, PUT, POST e DELETE dentro de APIs em NodeJS, utilizando Express e Axios para interação entre Front-end e Back-end.</p>
+<p> Estou em busca de uma oportunidade no mercado de trabalho para que possa mostrar minha capacidade de desenvolvimento e soluções de problemas, tenho ótimo desempenho no trabalho em equipe e também em trabalhos solo, ótima comunicação e alto senso de responsabilidade, espero fazer parte da sua equipe para que possamos crescer e evoluir juntos!</p>
 <br>
 
- :airplane:  I'm looking for an opportunity in the job market to grow professionally and add as much knowledge as necessary. 
- <br>
- I like to study, I'm dedicated and I reach my goals, I'm studying High-intermediate English and evolving every day.
-<br>
 
-Meus Perfis:
+<h2>Qualificações Pessoais</h2>
+
+<ul>
+
+<li>Habilidade no trato com pessoas</li>
+<li>Comprometimento e dinamismo</li>
+<li>Trabalho em equipe e focado em objetivos</li>
+<li>Motivação por novos desafios</li>
+<li>Pró-atividade, análise crítica e bom senso</li>
+<li>Criatividade na solução de problemas</li>
+<li>Liderança e facilidade de comunicação em todos
+os níveis</li>
+
+ 
+</ul>
+
+
 <br>
 <a href="https://www.linkedin.com/in/haniel-lemes-zangirolami-621a58207/" target="_blank"> <img src="https://t.ctcdn.com.br/09Y6BbLFxNn7XGCYRGzEI0p0oy8=/400x400/smart/filters:format(webp)/i490027.jpeg" height="35px"> <a/>
+<br>
 <br>
 <br>
 
